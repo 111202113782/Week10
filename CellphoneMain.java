@@ -20,6 +20,6 @@ public class CellphoneMain {
     cp.tambahKontak("Putri Jovanka", "0897654321");
     cp.lihatSemuaKontak();
     cp.cariKontak("Adrian Santoso");
-    cp.cariKontak("Bagas Prabaswara");
+    cp.cariKontak("Bagus Prabaswara");
   }
 }
